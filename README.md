@@ -1,4 +1,4 @@
-# Shopping-List-Processing-
+# Shopping-List-Processing
 The program uses two arrays, namely itemCode[] to hold the code number of items and itemPrice[] to hold the prices. A third data member count is used to keep a record of items in the list. The program uses a total of four functions to implement the operations to be performed on the list. The statement
 
 const int m 100;
